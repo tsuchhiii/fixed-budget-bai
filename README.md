@@ -1,7 +1,7 @@
 ## Fixed-Budget Best Arm Identification
 Public code for a paper
-["Minimax Optimal Algorithms for Fixed-Budget Best Arm Identification".](https://arxiv.org/abs/2206.04646)
-accepted by NeurIPS2022.
+["Minimax Optimal Algorithms for Fixed-Budget Best Arm Identification"](https://arxiv.org/abs/2206.04646)
+in NeurIPS2022.
 
 This repository includes codes for $R^{go}$-tracking.
 All algorithms included are the followings:
